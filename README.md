@@ -1,6 +1,6 @@
-Hi there! I'm Eduardo 😄
+Hi! I'm Nicolas 😄
 
-I always work in personal projects that I find fun. I use Flutter for mobile, Angular for web frontend and C#/.Net for the rest.
+I always work in personal projects.
 
 - 🔭 I’m currently studying Front-end/Back-end
 - :fire: I'm currently developing my hard skills
