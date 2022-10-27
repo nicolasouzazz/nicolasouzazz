@@ -1,6 +1,6 @@
 Hi! I'm Nicolas 😄
 
-I always work in personal projects.
+Currently working on personal projects.
 
 - 🔭 I’m currently studying Front-end/Back-end
 - :fire: I'm currently developing my hard skills
